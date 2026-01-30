@@ -1,0 +1,1 @@
+SELECT DISTINCT HireDate From [HumanResources].[Employee];

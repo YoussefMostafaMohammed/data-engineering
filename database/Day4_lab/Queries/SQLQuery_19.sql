@@ -1,0 +1,1 @@
+SELECT 'The '+ name +' is only! '+ CAST(ListPrice AS varchar(10))  from [Production].[Product] where ListPrice between 100 and 120 order by ListPrice;

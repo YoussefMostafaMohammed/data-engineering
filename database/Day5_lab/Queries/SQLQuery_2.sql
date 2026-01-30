@@ -1,0 +1,2 @@
+CREATE TYPE Tel FROM NVARCHAR(11) not null;
+

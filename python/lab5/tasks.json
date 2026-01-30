@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Buy groceries",
+        "completed": false
+    },
+    {
+        "title": "Complete assignment",
+        "completed": true
+    },
+    {
+        "title": "Call Mom",
+        "completed": false
+    }
+]

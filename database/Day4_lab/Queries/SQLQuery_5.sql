@@ -1,0 +1,1 @@
+SELECT NationalIDNumber,LoginID,JobTitle FROM [AdventureWorks2022].[HumanResources].Employee;

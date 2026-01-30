@@ -1,0 +1,12 @@
+Added: book - Quantity: 10
+Added: knife - Quantity: 2
+Added: book - Quantity: 10
+Added: knife - Quantity: 2
+Added: book - Quantity: 10
+Added: knife - Quantity: 2
+Added: book - Quantity: 10
+Added: knife - Quantity: 2
+Added: book - Quantity: 10
+Added: knife - Quantity: 2
+Added: book - Quantity: 10
+Added: knife - Quantity: 2

@@ -1,0 +1,1 @@
+SELECT Sum(TotalDue) From Sales.SalesOrderHeader where OrderDate between '7/1/2011' and '7/31/2011';
