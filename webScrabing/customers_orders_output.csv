@@ -1,0 +1,5 @@
+CustomerID,Name,Email,OrderID,OrderDate,ProductID,ProductName,Price,Quantity,Total
+001,John Doe,johndoe@example.com,1001,2025-01-01,P001,Laptop,1200.0,1,1200.0
+001,John Doe,johndoe@example.com,1001,2025-01-01,P002,Mouse,25.0,2,50.0
+001,John Doe,johndoe@example.com,1002,2025-01-05,P003,Monitor,300.0,1,300.0
+002,Jane Smith,janesmith@example.com,1003,2025-01-07,P004,Tablet,500.0,1,500.0
